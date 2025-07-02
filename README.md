@@ -5,5 +5,5 @@ MEMZ-clean by Yousuf.
 2. Inverted colors
 3. Random and illegal searches in webbrowsers
 4. Annoying messages
-# Disclamier
+# Disclaimer
 This app you have runned is considering Malware, But don't worry, Its a safe version of MEMZ, it won't corrupt the MBR but its Annoying, This virus is only for Educational and entertainment purposes, No damage will cause on to your Device.
