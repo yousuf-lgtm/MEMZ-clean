@@ -6,4 +6,4 @@ MEMZ-clean by Yousuf.
 3. Random and illegal searches in webbrowsers
 4. Annoying messages
 # Disclamier
-This app you have runned is considering Malware, But don't worry, Its a safe version of MEMZ, it won't corrupt the MBR, This virus is only for Educational and entertainment purposes, No damage will cause.
+This app you have runned is considering Malware, But don't worry, Its a safe version of MEMZ, it won't corrupt the MBR but its Annoying, This virus is only for Educational and entertainment purposes, No damage will cause on to your Device.
